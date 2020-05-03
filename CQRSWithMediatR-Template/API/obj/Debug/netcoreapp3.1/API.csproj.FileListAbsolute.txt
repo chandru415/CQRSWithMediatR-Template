@@ -1,0 +1,14 @@
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\MediatR.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\Application.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\Domain.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
