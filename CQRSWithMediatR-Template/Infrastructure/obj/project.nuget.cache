@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ss6hKK6d6EamgXsfSr7oG6BBAdWt/TAs++1QCEDDgrK09YxVSnKkP02okfKjOrEmTAPlIvmCOaLd9CbkfZ5KDw==",
+  "dgSpecHash": "dL6w8ybo+8flGBqZlDuFb/4V62oTFclnRMbRMT89CUyzPj12kKv3vZvSecF6keYU/AZYwlCm+2ILbW4gQwC+Uw==",
   "success": true,
   "projectFilePath": "I:\\Visual Studio 2019\\Projects\\CQRSWithMediatR-Template\\CQRSWithMediatR-Template\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\chand\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\chand\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\chand\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\chand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\chand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\chand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
