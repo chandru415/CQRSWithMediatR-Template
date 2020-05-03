@@ -1,0 +1,14 @@
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

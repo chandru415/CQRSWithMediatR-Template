@@ -1,0 +1,9 @@
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

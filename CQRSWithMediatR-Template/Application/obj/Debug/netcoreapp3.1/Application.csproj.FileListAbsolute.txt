@@ -4,3 +4,9 @@ I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template
 I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
 I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
 I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\bin\Debug\netcoreapp3.1\Domain.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\bin\Debug\netcoreapp3.1\Application.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.pdb
