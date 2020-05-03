@@ -1,0 +1,5 @@
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\bin\Debug\netcoreapp3.1\Application.dll
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+I:\Visual Studio 2019\Projects\CQRSWithMediatR-Template\CQRSWithMediatR-Template\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
