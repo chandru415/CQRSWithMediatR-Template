@@ -9,7 +9,7 @@ namespace Application.Common.Behaviours
     {
         private readonly ILogger _logger;
 
-        public LoggingBehaviour(ILogger logger)
+        public LoggingBehaviour(ILogger<TRequest> logger)
         {
             _logger = logger;
         }
