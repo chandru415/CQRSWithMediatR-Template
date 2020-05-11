@@ -1,4 +1,5 @@
 ﻿using Application.Common.Interfaces;
+using Infrastructure.Common;
 using System;
 using System.Data.SqlClient;
 
@@ -13,7 +14,7 @@ namespace Infrastructure.Persistence
 
         public string DbContext()
         {
-            throw new NotImplementedException();
+            return ConfigurationConstants.DBConnectionString;
         }
     }
 }
